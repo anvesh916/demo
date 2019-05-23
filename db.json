@@ -1,14 +1,25 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  d: {
+      results: [
+          {
+              
+              "InteractionUUID": "04c84840-3529-c0a7-1600-c00028ae0736",
+              "InteractionContactOrigin": "EMAIL",
+              "InteractionContactId": "prasad.kg@sap.com",
+              "CommunicationMedium": "EMAIL",
+              "InteractionType": "EMAIL_OUTBOUND",
+              "InteractionTimeStampUTC": "/Date(1558427429167+0000)/",
+              "InteractionSourceObjectType": "CUAN_MARKETING_ORCHESTRATION",
+              "InteractionSourceObject": "861B772CB7632A767C066D42325B2E658CBFFC09",
+              "MarketingArea": "CXXGLOBAL",
+              "CampaignID": "0000000563",
+              "InteractionContactUUID": "00163e69-ebdd-1ed9-9ef2-d9bb5f2df8fe",
+              "InteractionLastChangedDateTime": "/Date(1558427429659+0000)/",
+              "InteractionLastChangedByUser": "CB9980000009",
+              "InteractionContentSubject": "WebTracking test Email",
+              "InteractionContent": ""
+          }
+        ] 
+        
+        }
+      }
